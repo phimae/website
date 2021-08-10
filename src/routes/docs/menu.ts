@@ -50,6 +50,7 @@ export const MENU: MenuEntry[] = [
     M("GitLab", "gitlab-integration"),
     M("GitHub", "github-integration"),
     M("Bitbucket", "bitbucket-integration"),
+    M("Browser Bookmarklet", "browser-bookmarklet"),
     M("Browser Extension", "browser-extension"),
   ]),
   M("Gitpod Self-Hosted", "self-hosted/latest", [
@@ -67,7 +68,6 @@ export const MENU: MenuEntry[] = [
     // M("Architecture", "references/architecture"),
     // M("Troubleshooting", "references/troubleshooting"),
     M("Languages & Framework", "languages-and-frameworks"),
-    M("Changelog", "references/changelog"),
     M("Roadmap", "references/roadmap"),
   ]),
 ];
