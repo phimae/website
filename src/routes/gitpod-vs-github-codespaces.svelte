@@ -80,7 +80,7 @@
     border-radius: 2rem;
   }
 
-  @media(max-width: 1140px) {
+  @media (max-width: 1140px) {
     .halfimages article {
       @apply flex-col;
     }
@@ -88,7 +88,7 @@
     .halfimages article > div,
     .cards.double > div {
       @apply flex-1 self-center;
-    }    
+    }
   }
 
   .flex-grow {
@@ -356,7 +356,7 @@
 </p>
 
 <div class="brief">
-  <h2>Ready to feel the difference?</h2>
+  <h2>Ready to feel the difference just now?</h2>
   <p class="text-large">
     Spin up an example workspace now, just link your git provider
   </p>
